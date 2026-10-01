@@ -1,0 +1,6 @@
+{
+  "name": "安卓代码工坊",
+  "description": "全中文安卓开发者代码速查库与组件工坊，支持分类检索、代码实时交互预览、自定义代码片段库及收藏功能，采用沉浸式磨砂玻璃质感设计。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
